@@ -33,13 +33,11 @@
 
 ## Где меня найти
 
-[![Telegram](https://img.shields.io/badge/Telegram-24A19B?style=for-the-badge&logo=telegram)](https://t.me/твоя_ссылка)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/твоя_ссылка)
-[![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail)](mailto:твой_email@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-24A19B?style=for-the-badge&logo=telegram)](https://t.me/@fiksic0)
 
 ---
 
 ## Статистика (автоматически обновляется)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fiksic&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fiksic&layout=compact&theme=radical)
