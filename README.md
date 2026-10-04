@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Привет! 👋 Я [Fiksic]</h1>
+  <h1>Привет! 👋 Я Fiksic</h1>
   
   <p>Я разработчик, который превращает идеи в работающий код. Сейчас активно изучаю/работаю с:</p>
 
@@ -37,7 +37,6 @@
 
 ---
 
-## Статистика (автоматически обновляется)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fiksic&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fiksic&layout=compact&theme=radical)
